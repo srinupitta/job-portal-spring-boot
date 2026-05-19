@@ -225,11 +225,11 @@ Contributions are welcome! Please open an issue first to discuss what you would 
 ---
 
 ## 🏆 Author
-**Mahmud Alam**  
-- 🌍 Portfolio: [Mahmud Alam](https://mahmudalam.com/)  
-- 📧 Email: mahmudalam.official@gmail.com  
-- 🔗 **GitHub:** [GitHub](https://github.com/Mahmud-Alam)  
-- 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mahmudalamofficial/)  
+**SRINU PITTA**  
+- 🌍 Portfolio: [SRINU PITTA](https://mahmudalam.com/)  
+- 📧 Email: srinupittarjy@gmail.com  
+- 🔗 **GitHub:** [GitHub](https://github.com/srinupitta)  
+- 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/pitta-srinu-a97aa724a/)  
 
 ---
 
