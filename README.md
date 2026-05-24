@@ -230,7 +230,7 @@ Contributions are welcome! Please open an issue first to discuss what you would 
 - 📧 Email: srinupittarjy@gmail.com  
 - 🔗 **GitHub:** [GitHub](https://github.com/srinupitta)  
 - 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/pitta-srinu-a97aa724a/)  
-
+frontend live link :https://glittering-naiad-8b2f72.netlify.app/
 ---
 
 ## 🎉 Acknowledgments
