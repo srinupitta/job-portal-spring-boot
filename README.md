@@ -4,7 +4,7 @@
 **Job Portal App** is a simple full-stack web application designed to help users browse job listings and create new job posts. It is built using **Java Spring Boot** for the backend, **ReactJS** for the frontend, and **MongoDB** for data persistence.
 
 This project demonstrates how to create a modular and scalable application using a modern technology stack, implementing essential CRUD operations with pagination and keyword-based searching.
-
+frontend live link :https://glittering-naiad-8b2f72.netlify.app/
 ---
 
 ## 🚀 Features
