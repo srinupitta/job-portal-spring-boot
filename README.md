@@ -227,7 +227,7 @@ Contributions are welcome! Please open an issue first to discuss what you would 
 
 ## 🏆 Author
 **SRINU PITTA**  
-- 🌍 Portfolio: [Mahmud Alam](https://marvelous-flan-c45c70.netlify.app/)  
+- 🌍 Portfolio: [SRINU PITTA](https://marvelous-flan-c45c70.netlify.app/)  
 - 📧 Email: srinupittarjy@gmail.com
 - 🔗 **GitHub:** [GitHub](https://github.com/)  
 - 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/pitta-srinu-a97aa724a)  
